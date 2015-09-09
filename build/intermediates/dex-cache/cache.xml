@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-284a06473ab30bc5bbd4dc2a2dbc449d3fc21f62.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-8dfe550e3d336e9c2a10b445a5032055df96d1d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-897d6ab01eb19e452183e0248f253d3724522024.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.34.android\bef1d1224be099c387794bce1bdf81b38f37c6ce\fastjson-1.1.34.android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bef1d1224be099c387794bce1bdf81b38f37c6ce">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\fastjson-1.1.34.android-1c1361883e72fdd18445eb0bbc1ade697b626070.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-5efd23ecbb19d3eaab2d6c592448a9c537513c72.jar" />
+    </item>
+    <item
+        jar="C:\workspace2\Helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-516ddcf032b32f2ade3c13b96739e6a36484f567.jar" />
+    </item>
+    <item
+        jar="C:\workspace2\Helper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\classes-805959df4f1e5dd93722aaa6f4cc459e6a9afbc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3-fdf2b243c0c1200be37a8320f9ad952ee4962eaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-81763f269e1f4323652677bc3599af06f07d8c79.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-00961f662b7029bf4ebafb059aa582b931511580.jar" />
+    </item>
+    <item
+        jar="C:\Users\erainzhong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\workspace2\Helper\app\build\intermediates\pre-dexed\debug\okio-1.4.0-b1f376bebf27ca0d03fa42978a76fa521c716309.jar" />
+    </item>
+
+</items>
