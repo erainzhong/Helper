@@ -1,4 +1,4 @@
-# AndroidFine，Android快速开发框架
+# Helper，来自Android快速开发框架AndroidFine
 
 ## UI组件，不止是简单整合，更易用
 
@@ -16,25 +16,5 @@
 * Picasso.with(context).load("url).into(imageView)，舒服且强大的图片加载
 * 各种utils，拿来就可以用
 * [Android编码规范](http://tianshaojie.github.io/android-code-style)，简单才能规范
-
-
-## 精致Demo
-
-![](http://images0.cnblogs.com/blog2015/275810/201508/232033560975081.jpg)
-
-![](http://images0.cnblogs.com/blog2015/275810/201508/232033087389945.jpg)
-
-![](http://images0.cnblogs.com/blog2015/275810/201508/232034263002074.jpg)
-
-![](http://images0.cnblogs.com/blog2015/275810/201508/232034453945075.jpg)
-
-## 欢迎Fork，欢迎Star
-
-[https://github.com/tianshaojie/AndroidFine](https://github.com/tianshaojie/AndroidFine)
-
-## 下载试用
-
-[Download AndroidFine.apk](http://files.cnblogs.com/files/purediy/AndroidFine.apk)
-
 
 
